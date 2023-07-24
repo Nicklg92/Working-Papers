@@ -1,9 +1,9 @@
 # Working-Papers
 In this repository, you can find the description of my ongoing working papers. The list is updated periodically:
 
-Gentile, N., Clark, A., D'Ambrosio, C., Tkatchenko, A., "What Makes a Satisfying Life? Predicting and Interpreting with Machine Learning Algorithms".
+Gentile, N., Clark, A., D'Ambrosio, C., Tkatchenko, A., (2023), "What Makes a Satisfying Life? Predicting and Interpreting with Machine Learning Algorithms".
 
-Oparina, E. (1), Kaiser C. (2), Gentile, N. (3), Tkatchenko, A., Clark, A. E., De Neve, J. E., D'Ambrosio, C., "Machine Learning in the Prediction of Human Wellbeing", (1,2,3) Joint first authorship.
+Oparina, E. (1), Kaiser, C. (2), Gentile, N. (3), et al. (2023), "Machine Learning in the Prediction of Human Wellbeing", University of Oxford Wellbeing Research Centre Working Paper 2301. doi.org/10.5287/ora-2ajz1epnk, (1,2,3) Joint first authorship.
  
 Gentile, N., "Healthcare utilization and its evolution during the years: building a predictive and interpretable model".
 
